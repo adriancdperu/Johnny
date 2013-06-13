@@ -1,7 +1,7 @@
 Johnny
 ======
 
-Johnny calculates stuff
+Johnny calculates your chmod
 
 
 License
