@@ -1,7 +1,7 @@
 Johnny
 ======
 
-Johnny calculates your chmod
+Johnny calculates your chmod :P
 
 
 License
